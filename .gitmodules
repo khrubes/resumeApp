@@ -1,0 +1,3 @@
+[submodule "floating-action-button"]
+	path = floating-action-button
+	url = https://github.com/shamanland/floating-action-button.git
